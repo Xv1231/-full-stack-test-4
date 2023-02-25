@@ -1,0 +1,10 @@
+Firstly run command "npm start" from terminal
+then you can go through routes
+First you have to register a user
+Secondly you can login from authenticated username
+The next routes can only be used if user has logged in
+A user can see all notes, completed notes and incompleted notes from respective routes
+User can also changestatus of note, delete note or can add a new note
+The authentication is done via express sessions
+For data storage, MongoDb is used
+And lastly for server purpose and backend API express framework is used.
